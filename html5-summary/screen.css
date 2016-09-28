@@ -1,0 +1,54 @@
+/*body {
+ width: 90%
+ max-width: 60em;
+ margin: 0 auto;
+ font-family: monospace;
+ }
+
+
+nav,
+ol,
+li {
+ border: 1px solid #000; 
+}
+*/
+/*
+nav	ol {
+padding-left: 0;
+}
+
+nav li {
+display: inline;
+margin-right: 1em; /*1em= 16px*/
+}
+/*
+p {
+line-height: 1.4;
+font-family: fantasy, serif;
+}
+
+#test {
+	font: monospace;
+	}*/
+	
+body {
+	text-align: center;
+	}
+
+#main-content {
+	text-align: center;
+	margin: 3em;
+	}
+	
+p {
+	font-family: monospace;
+	}
+	
+#notes
+p {
+	margin: 2em;
+	padding: 3em;
+	border: 2px dashed #666;
+	}
+
+	
