@@ -1,0 +1,224 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0099cc;
+  text-align: center;
+  max-width: 100%;
+  margin: 0;
+
+
+
+
+
+}
+.section-center {
+	max-width: 48em;
+	margin: 0 auto;
+  }
+
+#Arial {
+
+
+  font-size:100px;
+  max-width: 40em;
+  padding:  10px 20px;
+  }
+header {
+
+  color: #000;
+  font-size: 50px;
+    background: #ccffff;
+  margin: 0 auto;
+
+}
+header {
+  font-family: Arial-black;
+}
+
+.nav {
+  font-size:  20px;
+  height: 40px;
+  background: #a7e0ee;
+}
+
+.nav ul {
+   margin: 0;
+  padding: 0;
+  }
+
+.nav ul li{
+  list-style: none;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  float: left;
+  display: block;
+  padding: 10px ;
+  color: #fff;
+  }
+
+.nav ul li a:hover {
+  color: #000;
+}
+
+
+h1{
+  padding: 30px;
+  font-size:100px;
+  margin: 0 auto;
+   max-width: 20em;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.about{
+  text-align: center;
+  background-color: #FFCCCC;
+  padding-left: 2em 0;
+  margin-top: 1em;
+
+ }
+
+.para{
+  background: #ccffff;
+  border: 1em solid #ccffff;
+  margin-top: -2em;
+
+}
+
+
+.paragraph{
+  font-size: 1px;
+  margin: 3em 0 0 0;
+ }
+
+.year{
+  font-size:1em;
+  background: #fff;
+  margin-top: 3em;
+  margin-bottom:5em;
+  border: 1em solid #FFCCCC;
+}
+
+.creators{
+  background:#ccffff;
+ margin-top: -6em;
+}
+.paragraph{
+  background: #ccffff;
+  border: 2em solid #ccffff;
+  margin-top: -5em;
+
+}
+
+h3{
+  text-align: center;
+  margin: 10px 0 0 1em;
+  padding: 10px 100px 0px 10px;
+background: #FFCCCC;
+
+}
+
+.Sans-Serif{
+  padding: 20px;
+  margin-top: 3em;
+  font-size: 90px;
+  background: #ccffff;
+}
+p{
+ text-align: center;
+font-size: 40px;
+  border: 2px solid em;
+background: #ccffff;
+margin: 0 auto;
+ }
+
+.fun-fact{
+  margin-top: 3em;
+  background: #ccffff
+
+}
+
+
+
+h4{
+  font-size: 90px;
+  margin: 0 auto;
+  padding: 10px
+
+
+
+}
+
+h5{
+  font-size:2em
+}
+
+
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+
+nav ul {
+  margin: none;
+}
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+
+section:target h4 {
+  background: #000;
+  transition: background 1s linear;
+}
+
+.Alpha{
+  padding: 10px;
+  font-size: 60px;
+  background: #ccffff;
+    border: 70px solid #FFCCCC ;
+  word-break: break-all;
+
+}
+
+.paragraph{
+ margin: 0 auto;
+ font-size: 40px;
+
+}
+
+
+a:hover,
+  a:focus {
+    border-bottom: 1px solid #000
+}
+
+
+  img {
+padding: 100px;
+    text-align: center;
+  display: block;
+  margin: 0 auto;
+    width: 50%;
+ }
+
+
+
+
+
+
+
+
+
