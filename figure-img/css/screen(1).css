@@ -1,0 +1,35 @@
+body{
+!background-color: #ccc;
+!background-image: url("../img/pattern.png");
+!background-repeat: repeat;
+!background-position: 0 0;
+background: #999 url("../img/pattern.png") repeat 0 0;
+margin: 0;
+}
+
+figure {
+margin:0;
+}
+
+img{
+max-width: 100%;
+height: auto;
+}
+
+
+.columns {
+list-style: none;
+padding-left: 0;
+}
+
+
+
+@media (min-width:60em) {
+
+.columns li{
+float: left;
+width: 33%;
+}
+
+
+}
