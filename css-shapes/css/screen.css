@@ -1,0 +1,98 @@
+body{
+background: #eee;
+}
+
+
+/*square circle triangle demo */
+
+
+#square-1 {
+float: left;
+font-size: 200%;
+width: 4em;
+height: 4em;
+background: #f00;
+}
+#circle-1 {
+float: left;
+font-size: 200%;
+width: 4em;
+height: 4em;
+background: #0f0;
+border-radius: 50%;
+margin-left: .75em;
+}
+
+#triangle-1{
+float: left;
+font-size: 200%;
+width: 0;
+height:0;
+line-height: 0;
+border: 2em dashed transparent;
+border-top: 0;
+border-bottom: 4em solid #00f;
+}
+
+
+
+/* candy corn */
+
+#candy-corn {
+position: relative;
+font-size: 300%;
+width: 8em;
+/*border:1px dashed #000; */
+margin: 1em auto;
+}
+
+
+#candy-corn .corn{
+
+width: 0;
+height: 0;
+line-height: 0;
+border: 4em dashed transparent;
+border-top:0;
+border-bottom: 8em solid #f90;
+border-radius: .5em;
+}
+#candy-corn .top-stripe{
+position: absolute;
+top: 0;
+right: 0;
+left:0;
+width:0;
+height: 0;
+line-height: 0;
+border: 1em dashed transparent;
+border-top:0;
+border-bottom: 2em solid #fff;
+border-radius: .5em;
+margin: 0 auto;
+}
+
+#candy-corn .bottom-stripe{
+position: absolute;
+right:0;
+bottom:0;
+left:0;
+width: 6em;
+height: 0;
+line-height: 0;
+border: 1em dashed transparent;
+border-top:0;
+border-bottom: 2em solid #ff0;
+border-radius: .5em;
+margin: 0 auto;
+}
+
+#skull-head {
+float: left;
+font-size: 200%;
+width: 4em;
+height: 4em;
+background: #f00;
+}
+
+
