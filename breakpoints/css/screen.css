@@ -1,0 +1,38 @@
+/* max-width breakpoint/ the page doesn't get andy wider  */
+
+
+
+body {
+max-width: 60em;
+marhin: 0 auto;
+}
+
+p {
+font-size:1.2em/1.5 Georgia, serif;
+}
+
+/* column breakpoint */
+@media (min-width: 48em) {
+
+
+h1 {
+font-size: 4em;
+}
+
+
+
+
+/* column break */
+
+@media (min-width: 60em) {
+
+.columns .col {
+float: left;
+width: 50%;
+
+
+}
+
+.columns. col p {
+font-size: 1.4em;
+}
