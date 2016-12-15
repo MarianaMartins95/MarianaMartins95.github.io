@@ -1,0 +1,397 @@
+
+body {
+background:#ccf;
+background: radial-gradient(rgb(203, 125, 118), rgb(0, 4, 49));
+
+
+
+
+
+
+}
+
+#dog-cloud{
+  position: relative;
+  top: 6em;
+ overflow: hidden;
+  width: 46em;
+  height: 30em;
+  animation: move 5s  ease infinite;
+}
+#body{
+
+  font-size: 500%;
+  width: 7em;
+  height: 3.9em;
+  background: #99ccff;
+border-radius: 50%;
+  margin: .625em ;
+  border-radius: 3.5em 3.5em 0 0 ;
+  }
+
+
+.cloud-puff{
+  position: absolute;
+  width: 1em;
+  height: 1em;
+  background:#99ccff;
+  border-radius: 50%;
+  top: 3.7em;
+  left: 7.7em;
+
+}
+
+
+#cloud-puff-2 {
+  left: .2em;
+  font-size: 100%
+}
+
+#cloud-puff-3 {
+  font-size: 300%;
+  top: .10em;
+  left: .9em
+    }
+
+
+#cloud-puff-4 {
+  font-size: 200%;
+ top: .1em;
+  left: 2em
+}
+
+#cloud-puff-5 {
+  font-size: 200%;
+ top: .7em;
+left: .2em
+}
+
+#cloud-puff-6 {
+ font-size: 160%;
+  top: .4em;
+  left:1em;
+}
+#cloud-puff-7 {
+  left: 7em;
+  top: 3em;
+}
+#cloud-puff-8 {
+  left: 2.4em;
+  top: .1em;
+}
+
+#cloud-puff-9 {
+ top: .3em;
+  left: 2.5em;
+  font-size: 200%;
+
+}
+
+#cloud-puff-10 {
+ left: 7em;
+
+
+}
+
+#cloud-puff-11 {
+ left: .5em;
+  }
+
+#cloud-puff-12 {
+  left: 17em;
+top: 8em;
+  font-size: 50%;
+  background:#99ccff;
+   background: linear-gradient(25deg, rgb(153, 204, 255), rgb(255, 255, 255));
+
+  }
+
+#cloud-puff-13 {
+  top: 3em;
+  left: .1em;
+
+  }
+
+#cloud-puff-14 {
+  top: .6em;
+  left: 3em;
+  font-size: 200%
+  }
+
+#cloud-puff-15{
+   position: absolute;
+  width: 1em;
+  height: 1em;
+  background:#99ccff;
+  background: linear-gradient(25deg, rgb(153, 204, 255), rgb(255, 255, 255));
+  border-radius: 50%;
+  top: 3.7em;
+  left: 7.7em;
+}
+
+.eyes{
+   position: absolute;
+ width: 1.5em;
+  height: 1.2em;
+  background: #fff;
+  border-radius: 50%;
+  top: 2.5em;
+ }
+
+#eye-ball-2 {
+  top: 2.5em;
+  left: 3em;
+}
+
+.pupils{
+     position: absolute;
+ width: 1em;
+  height: 1em;
+  background: #000;
+  border-radius: 50%;
+  top: 2.6em;
+
+}
+
+#pupil-2{
+  top: 2.6em;
+  left: 3em;
+}
+
+.eyebrow{
+    position: absolute;
+ width: .8em;
+  height: .4em;
+  background: #ffcccc;
+  border-radius: 50%;
+  top: 2em;
+}
+
+#eyebrow-2{
+  top:2em;
+  left:3em;
+}
+
+.nose{
+  position: absolute;
+  font-size: 10%;
+  	width: .1em;
+	height: -1em;
+  top: 33em;
+  left: 18em;
+  line-height: 0;
+	border: 4em dashed transparent;
+	border-top: 0;
+	border-bottom: 2em solid #000;
+	border-radius: 5em;
+  }
+
+#nose-1{
+transform: rotate(180deg);
+}
+
+#mouth {
+    position: absolute;
+  font-size: 60%;
+  width: 1.5em;
+  height: .5em;
+  background: #ff6666;
+  border-radius: 50%;
+  top: 7em;
+  left: 3.8em;
+  border-radius: 0 0 2.5em 2.5em;
+  overflow: hidden;
+}
+
+#ear-1{
+  position: absolute;
+  font-size:50%;
+ width: 3em;
+  height: 6em;
+  background: #6699ff;
+  border-radius: 50%;
+  top: 4em;
+  left: 9em;
+ }
+
+#ear-2{
+    position: absolute;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+  border-radius: 50%;
+  top: 2.7em;
+  left: 4.3em;
+
+}
+
+#ear-3{
+    position: absolute;
+  font-size: 60%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+  border-radius: 50%;
+  top: 5.7em;
+  left: 9.5em;
+
+}
+
+#ear-4{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 2.7em;
+  left: 4.9em;
+
+}
+
+#ear-5{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 3.7em;
+  left: 4.9em;
+
+}
+
+#ear-6{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 4.4em;
+  left: 4.9em;
+
+}
+
+#ear-7{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 2.4em;
+  left: 4.9em;
+
+}
+
+#ear-8{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 4.2em;
+  left: 5.7em;
+
+}
+
+#ear-9{
+    position: absolute;
+  font-size: 90%;
+  width: 1em;
+  height: 1em;
+  background:#6699ff;
+ border-radius: 50%;
+  top: 3.2em;
+  left: 6.1em;
+
+}
+
+.clouds{
+   position: absolute;
+  width: 1em;
+  height: 1em;
+  background: #99ccff;
+ border-radius: 50%;
+  top: 6.7em;
+  left: 7.7em;
+  }
+
+#cloud-2{
+top: 7em;
+left: 7em;
+ }
+
+#cloud-3{
+  font-size: 50%;
+top: 15em;
+left: 13.2em;
+ }
+
+#cloud-4{
+  font-size: 70%;
+top: 10em;
+left: 12em;
+ }
+
+#cloud-5{
+  font-size: 80%;
+top: 9em;
+left: 9.6em;
+ }
+
+#cloud-6{
+  font-size: 80%;
+top: 9.1em;
+left: 10em;
+ }
+
+#cloud-7{
+  font-size: 80%;
+top: 9.2em;
+left: 10.5em;
+ }
+
+
+
+
+
+
+@keyframes move{
+
+  0%{
+  top:1em;
+
+  }
+
+25% {
+ top: 2em;
+}
+
+
+50% {
+ top: 1em;
+}
+
+}
+
+
+
+
+
+
+
+
+
+/*  background: linear-gradient(25deg, rgb(0, 16, 97), rgb(55, 655, 655));
+
+*/
+
+
+
+
+
+
+

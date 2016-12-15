@@ -169,12 +169,23 @@ padding: 0
 margin: 0 auto;
 }
 
-.arialblack{
+.arialblack {
 text-align: center;
 }
 
-.dogcloud{
+.dogcloud {
 text-align:center;
+}
+
+.fullsize {
+max-width: 40%;
+text-align: center;
+}
+
+.nofaceconcept {
+max-width: 40%;
+text-align: center;
+
 }
 
 @media (min-width:60em) {
